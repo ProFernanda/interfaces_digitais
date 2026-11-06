@@ -20,8 +20,11 @@ article {
 }
 
 img {
-    width: 80px;
-    height: 80px;
+    width: 350px;
+    height: 350px;
+    border: 5px solid rgb(137, 28, 210);   /* Borda da imagem */
+      border-radius: 15px;        /* Bordas arredondadas */
+      height: auto;
 }
 
 .artigo-autor {
